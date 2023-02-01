@@ -24,6 +24,8 @@ print the predicted output
 
 
 ## Program:
+Name: Shanmugavel29  
+Register Number: 22004339
 ``` python
 import pandas as pd
 from sklearn import linear_model
